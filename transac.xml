@@ -1,0 +1,34 @@
+<?xml version="1.0"?> 
+<transacciones> 
+    <facturas> 
+        <factura> 
+            <numeroFactura> 123 </numeroFactura> 
+            <NITcliente> 3458649-0 </NITcliente> 
+            <fecha> 3/08/2024 </fecha> 
+            <valor> Q500 </valor> 
+        </factura>
+
+        <factura> 
+            <numeroFactura> 12 </numeroFactura> 
+            <NITcliente> 6457896-3 </NITcliente> 
+            <fecha> 23/11/2024 </fecha> 
+            <valor> Q100 </valor> 
+        </factura>
+
+    </facturas> 
+    <pagos> 
+        <pago> 
+            <codigoBanco> 45 </codigoBanco> 
+            <fecha> 25/11/2024 </fecha> 
+            <NITcliente> 3458649-0 </NITcliente> 
+            <valor> Q1200 </valor> 
+        </pago>
+        <pago> 
+            <codigoBanco> 78 </codigoBanco> 
+            <fecha> 20/11/2024 </fecha> 
+            <NITcliente> 6457896-3 </NITcliente> 
+            <valor> Q1201 </valor> 
+        </pago>  
+
+    </pagos> 
+</transacciones>

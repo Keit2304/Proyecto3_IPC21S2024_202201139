@@ -1,0 +1,27 @@
+<?xml version="1.0"?> 
+<config> 
+    <clientes> 
+        <cliente> 
+            <NIT> 3458649-0 </NIT> 
+            <nombre> Juan </nombre> 
+        </cliente>
+        <cliente> 
+            <NIT> 6457896-3 </NIT> 
+            <nombre> Vale </nombre> 
+        </cliente> 
+    </clientes> 
+    <bancos> 
+        <banco> 
+            <codigo> 45 </codigo> 
+            <nombre> BAM </nombre> 
+        </banco> 
+        <banco> 
+            <codigo> 78 </codigo> 
+            <nombre> BANRURAL </nombre> 
+        </banco>
+        <banco> 
+            <codigo> 80 </codigo> 
+            <nombre> BI </nombre> 
+        </banco>  
+    </bancos> 
+</config>
